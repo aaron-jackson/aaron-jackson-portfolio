@@ -115,14 +115,14 @@
           <p class="mb-12">If you're looking to work together, talk about past projects or chat over coffee. Get in touch.</p>
 
           <div class="text-lg sm:text-lg mb-16">
-            <form name="contact" meathod="POST" data-netlify="true" class="mb-12">
+            <form name="contact" meathod="POST" data-netlify="true" class="mb-12" id="contact-form">
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
                       <label class="block mb-2 text-copy-primary" for="name">
                           Name
                       </label>
 
-                      <input type="text" name="name" id="name" placeholder="Jon Snow" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
+                      <input type="text" name="name" id="name" placeholder="Name" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
                   </div>
 
                   <div class="w-full px-4 md:w-1/2">
