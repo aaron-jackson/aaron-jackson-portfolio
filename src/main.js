@@ -23,12 +23,12 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: 'description',
-    content: 'Gridsome Portfolio Starter'
+    content: 'Aaron Jackson Portfolio'
   })
 
   head.meta.push({
     name: 'author',
-    content: 'Andre Madarang'
+    content: 'Aaron Jackson'
   })
 
   head.link.push({
@@ -36,21 +36,4 @@ export default function (Vue, { router, head, isClient }) {
     href: 'https://fonts.googleapis.com/css?family=Nunito+Sans:400,700'
   })
 }
-
-document.ready(function() {
-  document.querySelector("form").addEventListener("submit", handleSubmit);
-
-  const handleSubmit = (e) => { 
-    e.preventDefault()
-    let myForm = document.getElementById('contact-form');
-    let formData = new FormData(myForm)
-    fetch('/', {
-      method: 'POST',
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: new URLSearchParams(formData).toString()
-    }).then(() => console.log('Form successfully submitted')).catch((error) =>
-      alert(error))
-  }
-})
-
 
