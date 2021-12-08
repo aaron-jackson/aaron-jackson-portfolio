@@ -1,7 +1,7 @@
 ---
 title: The Long Road
 path: /the-long-road
-date: 2021-08-12
+date: 2021-12-08
 summary: Ever ask yourself, how long does it take to become good developer? 
 tags: ['coding', 'frontend', 'backend']
 ---
