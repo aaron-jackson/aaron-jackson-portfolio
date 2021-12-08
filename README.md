@@ -1,1 +1,1 @@
-This is my portfolio site. Built using the Gridsome Portfolio Started - [https://gridsome-portfolio-starter.netlify.com]
+This is my portfolio site. Built using the Gridsome Portfolio Starter - [https://gridsome-portfolio-starter.netlify.com]
