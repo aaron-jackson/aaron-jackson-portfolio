@@ -115,7 +115,7 @@
           <p class="mb-12">If you're looking to work together, talk about past projects or chat over coffee. Get in touch.</p>
 
           <div class="text-lg sm:text-lg mb-16">
-            <form method="post" name="Contact Form" data-netlify="true" netlify-honeypot="hpfield" class="mb-12">
+            <form method="post" action="/thank-you" name="Contact Form" data-netlify="true" netlify-honeypot="hpfield" class="mb-12">
               <input class="hidden" name="hpfield">
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
