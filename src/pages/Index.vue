@@ -115,7 +115,7 @@
           <p class="mb-12">If you're looking to work together, talk about past projects or chat over coffee. Get in touch.</p>
 
           <div class="text-lg sm:text-lg mb-16">
-            <form method="post" action="/thank-you" name="Contact Form" data-netlify="true" netlify-honeypot="hpfield" class="mb-12">
+            <form method="post" action="/thank-you" name="Contact Form" netlify netlify-honeypot="hpfield" data-netlify-recaptcha="true" class="mb-12">
               <input class="hidden" name="hpfield">
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
@@ -141,6 +141,7 @@
                   </label>
 
                   <textarea id="message" rows="5" name="message" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-green-700 mb-2 px-4 py-4" placeholder="Enter your message here."></textarea>
+                  <div data-netlify-recaptcha="true"></div>
               </div>
 
               <div class="flex justify-end w-full">
