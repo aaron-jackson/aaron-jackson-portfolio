@@ -34,8 +34,8 @@
 
           <div class="grid grid-cols-2 gap-8">
             <div class="transform transition duration-500 hover:scale-110">
-              <a href="https://www.chapmancommunities.org/" target="_blank"><img class="rounded shadow-md" src="chapmancommunities.png" alt=""></a>
-              <h3>Chapman Foundation for<br> Caring Communities</h3>
+              <a href="https://www.bwpapersystems.com/company/locations" target="_blank"><img class="rounded shadow-md" src="google-map-app.png" alt=""></a>
+              <h3>Custom Google map<br> using Google Map API</h3>
             </div>
             <div class="transform transition duration-500 hover:scale-110">
               <a href="https://www.northernengraving.com/" target="_blank"><img class="rounded shadow-md" src="northern-engraving.png" alt=""></a>
