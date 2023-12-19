@@ -2,7 +2,7 @@
 title: A Few Ways To Write Easier CSS
 path: /a-few-ways-to-write-easier-css
 date: 2023-12-19
-summary: Ever ask yourself, how long does it take to become good developer? 
+summary: CSS has made some leaps this past year with new features that you can use in your code. This post will share a few of those features you can use to write your CSS in your next project 
 tags: ['coding', 'frontend', 'css']
 ---
 
