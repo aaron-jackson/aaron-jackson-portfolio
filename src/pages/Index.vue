@@ -82,7 +82,7 @@
               </div>
               <h4>Javascript</h4>
               <div class="relative w-full sm:w-1/2 bg-gray-200 rounded">
-                <div style="width: 77%" class="absolute top-0 h-4 rounded shim-green"></div>
+               <div style="width: 82%" class="absolute top-0 h-4 rounded shim-green"></div>
               </div>
               <h4>PHP</h4>
               <div class="relative w-full sm:w-1/2 bg-gray-200 rounded">
@@ -90,11 +90,11 @@
               </div>
                <h4>WordPress</h4>
               <div class="relative w-full sm:w-1/2 bg-gray-200 rounded">
-                <div style="width: 80%" class="absolute top-0 h-4 rounded shim-green"></div>
+                <div style="width: 85%" class="absolute top-0 h-4 rounded shim-green"></div>
               </div>
               <h4>SEO</h4>
               <div class="relative w-full sm:w-1/2 bg-gray-200 rounded">
-                <div style="width: 60%" class="absolute top-0 h-4 rounded shim-green"></div>
+                <div style="width: 70%" class="absolute top-0 h-4 rounded shim-green"></div>
               </div>
             </div>
           </div>
